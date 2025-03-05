@@ -24,6 +24,7 @@
 	<!-- ex15_pagecontext.jsp -->
 	<div>pageContext.num: <%= pageContext.getAttribute("num") %></div>
 	<div>request.num: <%= request.getAttribute("num") %></div>
+	
 
 	<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
 	<script src="https://bit.ly/4cMuheh"></script>
